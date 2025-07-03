@@ -4,8 +4,15 @@
   <img src="https://img.shields.io/github/followers/Reinosojp96?label=Follow&style=social" alt="GitHub Follow"/>
 </p>
 
-<h1 align="center">¡Hola, soy JJ Reinoso! 👋</h1>
-<p align="center">Desarrollador Full‑Stack | Apasionado por Linux, DevOps y Visión por Computador</p>
+<h1 align="center">
+  👋 ¡Hola! Soy <span style="color:#0E76A8">Julian Reinoso</span>
+</h1>
+<p align="center">
+  🚀 Desarrollador <strong>Full‑Stack</strong> con enfoque práctico | Apasionado por <strong>Python</strong>, <strong>DevOps</strong>, Linux y la construcción de proyectos reales
+</p>
+<p align="center">
+  🧠 Aprendiendo constantemente · 💻 Construyendo con propósito · 🌱 Mejorando cada día
+</p>
 
 ---
 
@@ -37,10 +44,10 @@
 ## 🚀 Sobre mí
 
 - 🏗️ Creo proyectos reales:
-  - **Zentro**: Sistema de gestión para gimnasios (FastAPI + Vue.js)
-  - **Cafetería Cafeto**: Sistema de gestión de cafetería
-  - **Air Solutions**: Sistema de gestión de aires acondicionados
-- 🌱 Aprendo haciendo: Python, JS, C++, SQL, Linux, DevOps, entre otros
+  - **Zentro**: Sistema de gestión para gimnasios (FastAPI, React, mysql)
+  - **Cafetería Cafeto**: Sistema de gestión de cafetería (FastAPI, React, mysql)
+  - **Air Solutions**: Sistema de gestión de aires acondicionados (java, Springboot, mysql, html, css, javascript)
+- 🌱 Aprendo haciendo: Python, JS, SQL, Linux, DevOps, entre otros
 
 ---
 
@@ -63,13 +70,11 @@
   <a href="https://www.linkedin.com/in/julian-reinoso-325385336" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <!-- Agrega tu link de WhatsApp si lo deseas -->
-  <!--<a href="https://wa.me/xxxxxxxxxx" target="_blank">
+  <a href="https://wa.me/3027358711" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>-->
+  </a>
 </div>
 
-- 🌐 **[Portafolio](https://tu-portafolio.com)**
 
 ---
 
