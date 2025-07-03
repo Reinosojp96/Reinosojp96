@@ -1,0 +1,29 @@
+name: Generar Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # cada domingo
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: Generar Pacman
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generar animación
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Reinosojp96
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg
+
+      - name: Subir a la rama output
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
