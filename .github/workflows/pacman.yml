@@ -1,0 +1,33 @@
+name: Generar Pac-Man Contribution Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'       # cada domingo a medianoche
+  workflow_dispatch:         # te permite dispararlo manualmente
+
+permissions:
+  contents: write            # da permiso de escritura al token
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Chequea el repo
+      - uses: actions/checkout@v3
+
+      # 2. Genera el Pac‑Man
+      - name: Generar animación Pac‑Man
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # opcional: ajusta tamaño de celda o colores:
+          # cell_size: 20
+          # color_dot: "#c6e48b,#7bc96f,#239a3b,#196127"
+
+      # 3. Publica los SVG en la rama `output`
+      - name: Publicar en rama output
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
