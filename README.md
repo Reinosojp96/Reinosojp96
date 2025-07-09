@@ -16,7 +16,8 @@
 
 ---
 
-<h2 align="left">Hi 👋! My name is Julian Perdomo ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋 I'm Julian Perdomo — a passionate software developer from Colombia, focused on building modern web applications with Python and JavaScript.
+</h2>
 
 ---
 
