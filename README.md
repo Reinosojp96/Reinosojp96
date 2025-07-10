@@ -46,7 +46,7 @@
 
 - 🏗️ Creo proyectos reales:
   - **Zentro**: Sistema de gestión para gimnasios (FastAPI, React, mysql)
-  - **Krono Coffee**: Sistema de gestión de cafetería (FastAPI, Javascript, html, css, mysql)
+  - **Krono Coffee**: Sistema de gestión de cafetería (FastAPI, Javascript, html, css, PostgreSQL)
   - **Air Solutions**: Sistema de gestión de aires acondicionados (java, Springboot, mysql, html, css, javascript)
 - 🌱 Aprendo haciendo: Python, JS, SQL, Linux, DevOps, entre otros
 
