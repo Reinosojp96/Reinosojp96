@@ -16,7 +16,7 @@
 
 ---
 
-<h2 align="left">Hi 👋 I'm Julian Perdomo — a passionate software developer from Colombia, focused on building modern web applications with Python and JavaScript.
+<h2 align="left">Hola 👋 soy Julian Perdomo un apasionado desarrollador de software, enfocado en construir soluciones tecnologicas con lenguajes de programacion como python y javascript.
 </h2>
 
 ---
