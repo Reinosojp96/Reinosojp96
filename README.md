@@ -16,7 +16,7 @@
 
 ---
 
-<h2 align="left">Hola 👋 soy Julian Perdomo un apasionado desarrollador de software, enfocado en construir soluciones tecnologicas con lenguajes de programacion como python y javascript.
+<h2 align="left">apasionado desarrollador de programas que generen distincion, innovacion y solucion, enfocado en construir tecnologias con lenguaje de programacion  python.
 </h2>
 
 ---
@@ -65,13 +65,13 @@
 ## 📬 Contacto
 
 <div align="left">
-  <a href="mailto:juliandresp09@gmail.com" target="_blank">
+  <a href="mailto:reinosojp96@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/julian-reinoso-325385336" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://wa.me/3027358711" target="_blank">
+  <a href="https://wa.me/3144295485" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
